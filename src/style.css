@@ -1,1 +1,15 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+h1 {
+  margin-top: 20px;
+  color: #343a40;
+}
+
+#domains {
+  margin-top: 20px;
+  color: #007bff;
+}
